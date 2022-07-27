@@ -14,7 +14,7 @@
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-  Passionnate about IT and Embedded System and graduating with a Master’s degree in Electronics and Computer Science in September 2022, I’m looking to secure a Embedded System Developer position to use and further develop my skills and knowledge in a practical environment.
+  Passionnate about IT and Embedded System and graduating with a Master’s degree in Electronics and Computer Science in September 2022.
 </details> 
    
 <details>
